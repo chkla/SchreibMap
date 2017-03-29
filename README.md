@@ -4,7 +4,7 @@ Here you can find a simple map (+ CSV) of some writing centres in germany, austr
 
 If you want to play around with the data feel free to use it.
 
-Have fun!
+Have fun! 🎉
 
 
 [1] "http://www.schreibwerkstatt.uni-stuttgart.de/wir-ueber-uns/Vernetzung/Schreibzentren_im_deutschsprachigen_Raum.html"
