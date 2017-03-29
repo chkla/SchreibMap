@@ -1,4 +1,4 @@
-# SchreibMap
+# 🗺 SchreibMap
 
 Here you can find a simple map (+ CSV) of some writing centres in germany, austria and switzerland. Most of the data based on "Schreibwerkstatt Universität Stuttgart" [1]. Additionally I added geographic coordinates and updated all links.
 
