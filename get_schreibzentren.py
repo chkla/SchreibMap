@@ -12,7 +12,7 @@ import csv
 page = urllib.request.urlopen('http://www.schreibwerkstatt.uni-stuttgart.de/wir-ueber-uns/Vernetzung/Schreibzentren_im_deutschsprachigen_Raum.html')
 soup = BeautifulSoup(page, "lxml")
 
-# list to save schoolname, typ, link and the coordinates of each entitiy
+# list to save schoolname, typ, link and the coordinates of each entity
 data = []
 
 # select just the table
@@ -36,6 +36,7 @@ for row in rows:
 
 # open/ creat a new csv file
 writer = csv.writer(open("writing_center.csv", "w"))
+
 # specify the rows
 writer.writerow(["City", "SchoolName", "Typ", "Url", "GeoLat", "GeoLng"])
 
